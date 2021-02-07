@@ -1,4 +1,4 @@
-var table = parseInt(prompt("enter a number from 0-10"));             // Unit of table
+var table = parseInt(prompt("Enter a number from 0-10"));             // Unit of table
 var i = 1;                 // Set counter to 1
 var msg = '<h2>Multiplication Table</h2>';              // Message
 
